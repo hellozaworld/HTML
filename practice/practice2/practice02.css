@@ -1,0 +1,158 @@
+html {
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+    font-family: "Noto Sans", serif;
+}
+
+p.imasugu {
+    font-weight: bold;
+}
+
+
+p.cta-passeage {
+    font-size: 13px;
+    margin-bottom: 40px;
+}
+
+
+
+h4 {
+    font-size: 22px;
+}
+
+section.cta-center {
+    background-color: #efefef;
+    padding: 50px;
+    text-align: center;
+}
+
+p.two-passeage {
+    font-size: 11.3px;
+    padding-top: 45px;
+    padding-left: 10px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+}
+header{
+    width: auto;
+}
+
+body * {
+    font-family: "Noto Sans JP", sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 1.6rem;
+    margin: 0;
+}
+
+
+body {
+    margin: 0;
+}
+
+
+p {
+    margin: 0;
+}
+
+
+img {
+    width: 30%;
+    height: auto;
+}
+
+.fv-center{
+    height: 540px;
+    width: auto; 
+    background-size: cover; 
+    background-image: url(image.jpg);
+    background-color: rgba(255,255,255,0.7);
+    background-blend-mode: overlay;
+    justify-content: center;
+}
+h4{
+   font-size:23px;
+   margin-bottom: 20px;
+}
+.header-button{
+    display: block;
+    color: #fff;
+    background-color: #60CAAD;
+    border: none;
+    margin-right: 5%;
+    margin-top: 1%;
+    height: 40px;
+    width: 180px;
+    gap: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+h1{
+    padding: 5px;
+  text-align: center;
+  margin-left: 5%;
+  font-size: 20px;
+  height: 40px;
+  margin-top: 1%;
+}
+.headerdiv{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+
+}
+h2{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 180px;
+}
+.fv-passeage{
+    font-size: 17px;
+    text-align: center;
+    padding-top: 10px;
+}
+.fv-button{
+    align-items: center;
+    display: block;
+    color: #fff;
+    background-color: #60CAAD;
+    border: none;
+    margin-right: 5%;
+    margin-top: 1%;
+    height: 40px;
+    width: 240px;
+    gap: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: auto;
+    margin-top: 40px;
+}
+.twodiv{
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+    margin-top: 20px;
+}
+h3{
+  text-aligh:center;
+  font-size: 22px;
+  margin-top: 45px;
+}
+.cta-button{
+    align-items: center;
+    display: block;
+    color: #fff;
+    background-color: #60CAAD;
+    border: none;
+    margin-right: 5%;
+    margin-top: 1%;
+    height: 40px;
+    width: 240px;
+    gap: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: auto;
+}
