@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Title Here</title>
+        <link rel="stylesheet" type="text/css" href="practice02.css" media="all">
+    </head>
+    <body>
+        <header>
+           <div class="headerdiv">
+            <h1>DesigNews</h1>
+            <button class="header-button">
+                ダウンロード
+            </button>
+           </div> 
+        </header>
+        <main>
+            <div class="fv-center">
+                <h2>
+                  DesigNews(デザインニュース)  
+                </h2>
+                <p class="fv-passeage">
+                デザイナーのためだけのニュースアプリ
+                </p>    
+                <button class="fv-button">
+                ダウンロード
+                </button>
+
+            </div>
+            <section class="section-two">
+                <h3>
+                    デザイナー限定！デザイナー特化のニュースアプリ
+                </h3>
+                <div class="twodiv">
+                    <img src="image2.jpg">
+                    <p class="two-passeage">
+                    現役デザイナーによる現役デザイナーに必要な最新情報をまとめた<br>
+                    現役デザイナーのためのニュースアプリ。<br>
+                    最新のデザイントレンドからギャラリー展の紹介まで、デザイナー<br>
+                    がほしい情報がまとめてチェックできます。
+                    </p>
+
+                </div>
+            </section>    
+            <section class="cta-center">
+                <h4>
+                    ダウンロード・利用料無料！すぐにチェックできる！
+                </h4>
+                <p class="cta-passeage">
+                    DesigNewsは無料でダウンロードできます。最新情報を今すぐチェックしましょう!
+                </p>    
+                <p class="imasugu" style="font-family: arial;">
+                    &#92;今すぐダウンロード！/
+                </p>    
+                <button class="cta-button">
+                    ダウンロード
+                </button>    
+            </section>
+        </main>
+
+    </body>
+    <fotter>
+        <p class="footerp"><font color="white">©sample.com</font>
+    </fotter>
+</html>
